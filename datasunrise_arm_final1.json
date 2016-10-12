@@ -99,7 +99,7 @@
       "properties": {
         "publicIPAllocationMethod": "[variables('publicIPAddressType')]",
         "dnsSettings": {
-          "domainNameLabel": "[variables('uniqueNamePrefix')]"
+          "domainNameLabel": "tjbjbiu76t767"
         }
       }
     },
